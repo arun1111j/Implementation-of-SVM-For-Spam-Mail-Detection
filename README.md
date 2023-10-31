@@ -61,19 +61,23 @@ accuracy
 ## Output:
 
 1. data.head():
-linear regression using gradient descent
+![Screenshot 2023-10-31 154459](https://github.com/arun1111j/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128461833/968d89bc-0906-4928-a115-637da7c115d1)
 
 2. data.info():
-linear regression using gradient descent
+![Screenshot 2023-10-31 154610](https://github.com/arun1111j/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128461833/3838a508-d25a-408f-ae70-5ce4155403ee)
+
 
 3.data.isnull().sum():
-linear regression using gradient descent
+![Screenshot 2023-10-31 154627](https://github.com/arun1111j/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128461833/726443d4-9135-4aeb-b3c6-6d988525e73f)
+
 
 4. Y_prediction Value:
-linear regression using gradient descent
+![image](https://github.com/arun1111j/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128461833/8b76ea17-c8b5-45f2-a312-15744521b4f7)
+
 
 5. Accuracy Value:
-linear regression using gradient descent
+![image](https://github.com/arun1111j/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128461833/9c10b30f-cc21-4146-8134-a19b63ed41f0)
+
 
 
 
