@@ -60,19 +60,20 @@ accuracy
 
 ## Output:
 
+1. data.head():
+linear regression using gradient descent
 
-![SVM For Spam Mail Detection](6..png)
+2. data.info():
+linear regression using gradient descent
 
-![SVM For Spam Mail Detection](1.png)
+3.data.isnull().sum():
+linear regression using gradient descent
 
-![SVM For Spam Mail Detection](2.png)
+4. Y_prediction Value:
+linear regression using gradient descent
 
-![SVM For Spam Mail Detection](3.png)
-
-![SVM For Spam Mail Detection](4.png)
-
-![SVM For Spam Mail Detection](5.png)
-
+5. Accuracy Value:
+linear regression using gradient descent
 
 
 
